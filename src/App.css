@@ -1,0 +1,19 @@
+body {
+  @apply bg-success-300;
+}
+
+.wrapper {
+  @apply w-[900px] max-w-5xl mx-auto mt-4;
+}
+
+.card {
+  @apply p-4 w-[450px] m-0 mx-auto h-[450px] bg-gray-100 flex flex-wrap justify-between;
+}
+
+.block {
+  @apply w-[100px] h-[100px] bg-white rounded overflow-hidden;
+}
+
+.block1 {
+  @apply bg-gray-500;
+}
